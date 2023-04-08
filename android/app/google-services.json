@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931996053685",
+    "project_id": "quillzone-aed61",
+    "storage_bucket": "quillzone-aed61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931996053685:android:39e641564e077342638efc",
+        "android_client_info": {
+          "package_name": "com.example.quill_zone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931996053685-kav00cjvtamus37acicpgeva10h1ne21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVK7LFA1PBkcD3sTeWPJXjx6C4KLC38JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931996053685-kav00cjvtamus37acicpgeva10h1ne21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
